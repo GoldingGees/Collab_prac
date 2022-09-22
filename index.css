@@ -1,0 +1,23 @@
+.head-title {
+    color: rgb(7, 65, 172);
+    background-color: darkgray;
+    font-family: Roboto, sans-serif;
+    font-size: 40px;
+    width: 320px;
+    margin: 0 auto;
+}
+
+body {
+  background-color: azure;
+}
+
+table, th, td {
+    border: 1px solid black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+#image {
+    width: 800px;
+    margin: 0 auto;
+  }
